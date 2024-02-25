@@ -18,3 +18,7 @@
 .pad-around {
     padding: 1rem;
 }
+
+body {
+    background-color: #EDEBD8 !important;
+}
